@@ -1,1 +1,0 @@
-(self.webpackChunk_idg_project_name=self.webpackChunk_idg_project_name||[]).push([[118,654],{24654:function(){}}]);
